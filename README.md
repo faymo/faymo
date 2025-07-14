@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently a first year studying Engineering at McMaster University
+- 🔭 I’m a second year studying Software Engineering at McMaster University
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on anything fun so feel free to reach out to me!
 - 👜 Interning at Shopify Summer 2025!
