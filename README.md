@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m a second year studying Software Engineering at McMaster University
+- 🔭 I’m a third year studying Software Engineering at McMaster University
 - 👯 I’m looking to collaborate on anything fun so feel free to reach out to me!
-- SWE Intern @ Google Summer 2026
-- 👜 Previously at Shopify Summer 2025!
+- 👜 Previously at Google Summer 2026 and Shopify Summer 2025!
 - 📫 How to reach me: fayez.hm6@gmail.com
 
 <h3 align="left">Connect with me:</h3>
